@@ -1,4 +1,4 @@
-Calculate your expected MRR from existing Paddle subscriptions.
+Calculate your expected MRR from existing Paddle.com subscriptions.
 
 ### Usage
 
